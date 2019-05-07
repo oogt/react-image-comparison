@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-image-comparison/static/css/main.5677dc66.chunk.css",
+    "main.js": "/react-image-comparison/static/js/main.ae217493.chunk.js",
+    "main.js.map": "/react-image-comparison/static/js/main.ae217493.chunk.js.map",
+    "runtime~main.js": "/react-image-comparison/static/js/runtime~main.e7e5b1e2.js",
+    "runtime~main.js.map": "/react-image-comparison/static/js/runtime~main.e7e5b1e2.js.map",
+    "static/js/2.8e878cdc.chunk.js": "/react-image-comparison/static/js/2.8e878cdc.chunk.js",
+    "static/js/2.8e878cdc.chunk.js.map": "/react-image-comparison/static/js/2.8e878cdc.chunk.js.map",
+    "index.html": "/react-image-comparison/index.html",
+    "precache-manifest.7c00c78a7ab2b758c266b63aaa262fe6.js": "/react-image-comparison/precache-manifest.7c00c78a7ab2b758c266b63aaa262fe6.js",
+    "service-worker.js": "/react-image-comparison/service-worker.js",
+    "static/css/main.5677dc66.chunk.css.map": "/react-image-comparison/static/css/main.5677dc66.chunk.css.map",
+    "static/media/bottle-base.png": "/react-image-comparison/static/media/bottle-base.8bb4b908.png",
+    "static/media/bottle-blue.png": "/react-image-comparison/static/media/bottle-blue.7e4d0abc.png",
+    "static/media/bottle-green.png": "/react-image-comparison/static/media/bottle-green.5c0db695.png",
+    "static/media/bottle-pink.png": "/react-image-comparison/static/media/bottle-pink.2e396ee0.png",
+    "static/media/bottle-yellow.png": "/react-image-comparison/static/media/bottle-yellow.c759cc27.png"
+  }
+}
